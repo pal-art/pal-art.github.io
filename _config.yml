@@ -28,7 +28,10 @@ url: "https://pal-art.in" # the base hostname & protocol for your site, e.g. htt
 #github_username:  jekyll
 
 # Build settings
+#markdown: kramdown
+#markdown: gfh
 theme: minima
+#remote_theme: pages-themes/slate
 plugins:
   - jekyll-feed
 
